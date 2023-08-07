@@ -1,0 +1,22 @@
+Links to data
+
+Link to a dataset of the saved checkpoints created by the training notebook-
+
+	https://kaggle.com/datasets/6cb8f4a2b6152725a08219ef56eebd03ce792854ebb5c1843d207e39e3364262
+
+
+Link to Train and test splits used during our experiments-
+
+	https://kaggle.com/datasets/6c71eef0c94847c46d39f8a1690c36546e219e7f35459d7ed76f92ecad8d54f5
+
+Link to 20 GBS of generated passwords-
+
+	https://kaggle.com/datasets/511a92de80de76257ddc71a85ffa93c296a62e88444178e30ae839c2cb15dbae
+
+Link to 20 more GBS of generated passwords (had to use one drive because I ran out of room on kaggle)-
+
+	https://gmuedu-my.sharepoint.com/:t:/g/personal/mmcnama_gmu_edu/EU0aOwNIUwdHqcnUtcrc7c4BfH5zPrB0opd7Flxy1UaliA?e=EcpH4n
+
+Link to original Rockyou dataset-
+
+	https://www.kaggle.com/datasets/wjburns/common-password-list-rockyoutxt
